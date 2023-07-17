@@ -31,16 +31,16 @@ const Footer = () => {
                 </ColumnFooter>
                 <ColumnFooter>
                     <br /><br />
-                    <FooterLink style={{ marginLeft: "55px" }} href="/FIRE-website-Node/">Home</FooterLink>
-                    <FooterLink style={{ marginLeft: "55px" }} href="/FIRE-website-Node/about">About Us</FooterLink>
-                    <FooterLink style={{ marginLeft: "55px" }} href="/FIRE-website-Node/sponsors">Our Sponsors</FooterLink>
+                    <FooterLink style={{ marginLeft: "55px" }} href="/FIRE-website/">Home</FooterLink>
+                    <FooterLink style={{ marginLeft: "55px" }} href="/FIRE-website/about">About Us</FooterLink>
+                    <FooterLink style={{ marginLeft: "55px" }} href="/FIRE-website/sponsors">Our Sponsors</FooterLink>
                     <FooterLink style={{ marginLeft: "55px" }} href="https://docs.google.com/forms/d/e/1FAIpQLSfhd4fiAH9qcjkvYebNE1pXbK_DYSGB6CfVaE25LLi77exc6Q/viewform" target={'_blank'} rel='noreferrer'>Join the Club!</FooterLink>
                 </ColumnFooter>
                 <ColumnFooter>
                     <br /><br />
-                    <FooterLink href="/FIRE-website-Node/gallery">Gallery</FooterLink>
-                    <FooterLink href="/FIRE-website-Node/upcomingevents">Upcoming Events</FooterLink>
-                    <FooterLink href="/FIRE-website-Node/faqs">FAQs</FooterLink>
+                    <FooterLink href="/FIRE-website/gallery">Gallery</FooterLink>
+                    <FooterLink href="/FIRE-website/upcomingevents">Upcoming Events</FooterLink>
+                    <FooterLink href="/FIRE-website/faqs">FAQs</FooterLink>
                 </ColumnFooter>
                 <ColumnFooter>
                     <HeadingFooterSocial style={{ marginBottom: "4px" }}>Social Media</HeadingFooterSocial>

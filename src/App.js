@@ -3,7 +3,7 @@
 import React from 'react';
 import "./App.css";
 
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route, BrowserRouter } from 'react-router-dom';
 import Layout from "./Layout";
 import Home from './pages';
 import About from './pages/about';
@@ -21,7 +21,7 @@ function App() {
     <div>
       <Router>
         <Routes>
-          <Route path="/FIRE-website-Node/" element={<Layout />}>
+          <Route path="/FIRE-website/" element={<Layout />}>
             <Route index element={<Home />} />
             <Route path="about" element={<About />} />
             <Route path="committee" element={<Committee />} />

@@ -1,7 +1,7 @@
 {
     "name": "react-app",
     "version": "0.1.0",
-    "homepage": "https://Females-in-RMIT-Engineering.github.io/FIRE-website-Node",
+    "homepage": "https://Females-in-RMIT-Engineering.github.io/FIRE-website",
     "private": true,
     "dependencies": {
         "@emotion/react": "^11.11.1",
