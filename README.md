@@ -21,3 +21,7 @@ npm i -g npm-check-updates
 ncu -u
 npm install
 ```
+
+React Deployment on Github Page - Guide
+
+https://github.com/gitname/react-gh-pages
