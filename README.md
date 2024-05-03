@@ -25,3 +25,15 @@ npm install
 React Deployment on Github Page - Guide
 
 https://github.com/gitname/react-gh-pages
+
+To deploy after update:
+
+set remote origin:
+```
+git remote add origin https://github.com/Females-in-RMIT-Engineering/FIRE-website.git
+```
+
+then run:
+```
+npm run deploy
+```
