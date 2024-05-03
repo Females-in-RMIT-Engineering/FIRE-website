@@ -49,7 +49,7 @@ const NavigationBar = () => {
         </NavMenu>
         <NavBtn>
           {/*<a class = 'join' href='https://docs.google.com/forms/d/e/1FAIpQLSfhd4fiAH9qcjkvYebNE1pXbK_DYSGB6CfVaE25LLi77exc6Q/viewform' target={'_blank'} rel='noreferrer' style={{textDecoration: "none", }}>Join the Club</a>*/}
-          <NavBtnLinkStyle><a class='FormLink' href='https://docs.google.com/forms/d/e/1FAIpQLSfhd4fiAH9qcjkvYebNE1pXbK_DYSGB6CfVaE25LLi77exc6Q/viewform' target={'_blank'} rel='noreferrer' title='Google Form to join FIRE+'>Join the Club</a></NavBtnLinkStyle>
+          <NavBtnLinkStyle><a class='FormLink' href='https://docs.google.com/forms/d/e/1FAIpQLSf3ab22LRIzixHMe_bl94PZ8gHKnwBt0Mc120bxCDL3exelvw/viewform' target={'_blank'} rel='noreferrer' title='Google Form to join FIRE+'>Join the Club</a></NavBtnLinkStyle>
         </NavBtn>
       </Nav>
     </div>
