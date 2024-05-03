@@ -34,7 +34,7 @@ const Footer = () => {
                     <FooterLink style={{ marginLeft: "55px" }} href="/FIRE-website/">Home</FooterLink>
                     <FooterLink style={{ marginLeft: "55px" }} href="/FIRE-website/about">About Us</FooterLink>
                     <FooterLink style={{ marginLeft: "55px" }} href="/FIRE-website/sponsors">Our Sponsors</FooterLink>
-                    <FooterLink style={{ marginLeft: "55px" }} href="https://docs.google.com/forms/d/e/1FAIpQLSfhd4fiAH9qcjkvYebNE1pXbK_DYSGB6CfVaE25LLi77exc6Q/viewform" target={'_blank'} rel='noreferrer'>Join the Club!</FooterLink>
+                    <FooterLink style={{ marginLeft: "55px" }} href="https://docs.google.com/forms/d/e/1FAIpQLSf3ab22LRIzixHMe_bl94PZ8gHKnwBt0Mc120bxCDL3exelvw/viewform" target={'_blank'} rel='noreferrer'>Join the Club!</FooterLink>
                 </ColumnFooter>
                 <ColumnFooter>
                     <br /><br />
