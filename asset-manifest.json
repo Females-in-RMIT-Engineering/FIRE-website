@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/FIRE-website/static/css/main.67c21c99.css",
-    "main.js": "/FIRE-website/static/js/main.d989f96b.js",
+    "main.js": "/FIRE-website/static/js/main.6fd07f85.js",
     "static/media/Karen.jpeg": "/FIRE-website/static/media/Karen.52cf729e1099ff99acd7.jpeg",
     "static/media/Kyla.jpg": "/FIRE-website/static/media/Kyla.8f6e1e720c6027099677.jpg",
     "static/media/Akshita.jpg": "/FIRE-website/static/media/Akshita.4d9f8d96da01c9af6f82.jpg",
@@ -34,10 +34,10 @@
     "static/media/SystraLogo.png": "/FIRE-website/static/media/SystraLogo.7c5e778b7c1e19880d88.png",
     "index.html": "/FIRE-website/index.html",
     "main.67c21c99.css.map": "/FIRE-website/static/css/main.67c21c99.css.map",
-    "main.d989f96b.js.map": "/FIRE-website/static/js/main.d989f96b.js.map"
+    "main.6fd07f85.js.map": "/FIRE-website/static/js/main.6fd07f85.js.map"
   },
   "entrypoints": [
     "static/css/main.67c21c99.css",
-    "static/js/main.d989f96b.js"
+    "static/js/main.6fd07f85.js"
   ]
 }
