@@ -38,6 +38,8 @@ const Sponsors = () => {
             <div class = 'SponsorRow'>
               <div class = 'SponsorColumn'>
                 <img src={pwcLogo} alt = 'pwc Logo' width = {200} class = 'SponsorLogos' />
+                {/* pwc Australia description adapted from https://www.pwc.com.au/about-us.html */}
+                <p>At PwC Australia, we take a human-led, tech-powered approach, combining diverse perspectives, expertise and relationships with the right technology to solve problems and unlock opportunities.</p>
               </div>
             </div>
 
@@ -45,9 +47,13 @@ const Sponsors = () => {
             <div class = 'SponsorRowGrid'>
               <div class = 'SponsorColumn'>
                 <img src={ARCADISLogo} alt = 'ARCADIS Logo' width = {270} class = 'SponsorLogos' />
+                {/* Arcadis description adapted from https://www.arcadis.com/en-au/about-us/company-profile */}
+                <p>Arcadis is the world’s leading company delivering intelligence-driven sustainable design, engineering, and consultancy solutions for natural and built assets.</p>
               </div>
               <div class = 'SponsorColumn'>
                 <img src={JacobsLogo} alt = 'Jacobs Logo' width = {270} class = 'SponsorLogos' />
+                {/* Jacobs description adapted from https://www.jacobs.com/about */}
+                <p>At Jacobs, we make the world smarter, more connected and more sustainable. Across our company, across our offices, across the world, we’re continually challenging today to reinvent tomorrow.</p>
               </div>
             </div>
 

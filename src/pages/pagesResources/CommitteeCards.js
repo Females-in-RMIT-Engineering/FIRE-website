@@ -7,11 +7,18 @@ function CommitteeCard(props){
     return (
         <UserCard
             float
-            header={props.imagesrc}
             name={props.name}
             positionName={props.role}
             //style={{cursor: "pointer"}}
         />
+
+        // <UserCard
+        //     float
+        //     header={props.imagesrc}
+        //     name={props.name}
+        //     positionName={props.role}
+        //     //style={{cursor: "pointer"}}
+        // />
     );
 }
 

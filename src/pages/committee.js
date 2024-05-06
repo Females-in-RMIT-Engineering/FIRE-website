@@ -4,16 +4,6 @@ import React from 'react';
 import { Helmet } from "react-helmet";
 import "./pagesCSS/committee.css";
 import CommitteeCard from './pagesResources/CommitteeCards';
-
-import KylaImage from './pagesResources/images/CommitteeImages/ExecutiveTeam/Kyla.jpg';
-import VictoriaImage from './pagesResources/images/CommitteeImages/ExecutiveTeam/Victoria.jpeg';
-import TerryImage from './pagesResources/images/CommitteeImages/ExecutiveTeam/Terry.jpeg';
-import KarenImage from './pagesResources/images/CommitteeImages/ExecutiveTeam/Karen.jpeg';
-
-import AparnaImage from './pagesResources/images/CommitteeImages/SocialMediaTeam/Aparna.jpg';
-import ApsaraImage from './pagesResources/images/CommitteeImages/SocialMediaTeam/Apsara.jpg';
-
-import AkshitaImage from './pagesResources/images/CommitteeImages/SocialEventsTeam/Akshita.jpg';
   
 const Committee = () => {
   return (
@@ -32,16 +22,16 @@ const Committee = () => {
 
         <div class = 'CommitteeRow'>
           <div class = 'CommitteeColumn'>
-            <CommitteeCard imagesrc={TerryImage} name = "Terry Kim" role="President"/>
+            <CommitteeCard name = "Felicity Monk" role="President"/>
           </div>
           <div class = 'CommitteeColumn'>
-            <CommitteeCard imagesrc={VictoriaImage} name = "Victoria Kokurin" role="Vice President"/>
+            <CommitteeCard name = "Akshita Agrawal" role="Vice President"/>
           </div>
           <div class = 'CommitteeColumn'>
-            <CommitteeCard imagesrc={KylaImage} name = "Kyla Diego"  role="Marketing Manager"/>
+            <CommitteeCard name = "Khanak Sharma"  role="Operation Manager"/>
           </div>
           <div class = 'CommitteeColumn'>
-            <CommitteeCard imagesrc={KarenImage} name = "Karen Khalil"  role="Treasurer"/>
+            <CommitteeCard name = "Mandeep Kaur"  role="Treasurer"/>
           </div>
         </div>
         
@@ -50,6 +40,16 @@ const Committee = () => {
 
         <div class = 'CommitteeRow'>
           <div class = 'CommitteeColumn'>
+            <CommitteeCard name = "Lourdes Sirianni" role="Newsletter Officer"/>
+          </div>  
+          <div class = 'CommitteeColumn'>
+            <CommitteeCard name = "Ridma Withanage" role="Newsletter Officer"/>
+          </div> 
+          <div class = 'CommitteeColumn'>
+            <CommitteeCard name = "Spurthy Yellutla" role="Newsletter Officer"/>
+          </div>  
+          <div class = 'CommitteeColumn'>
+            <CommitteeCard name = "Vani Kumar" role="Newsletter Officer"/>
           </div>  
         </div>  
 
@@ -57,6 +57,13 @@ const Committee = () => {
 
         <div class = 'CommitteeRow'>
           <div class = 'CommitteeColumn'>
+            <CommitteeCard name = "Cherie Htun" role="Industry Engagement Officer"/>
+          </div> 
+          <div class = 'CommitteeColumn'>
+            <CommitteeCard name = "Nithya Niranjani Nagaraja" role="Industry Engagement Officer"/>
+          </div> 
+          <div class = 'CommitteeColumn'>
+            <CommitteeCard name = "Tara Schneeweiss" role="Industry Engagement Officer"/>
           </div>  
         </div>  
 
@@ -64,7 +71,13 @@ const Committee = () => {
 
         <div class = 'CommitteeRow'>
           <div class = 'CommitteeColumn'>
-            <CommitteeCard imagesrc={AkshitaImage} name = "Akshita Agrawal" role="Social Events Officer"/>
+            <CommitteeCard name = "Evelyn Todio" role="Social Events Officer"/>
+          </div>  
+          <div class = 'CommitteeColumn'>
+            <CommitteeCard name = "Sherin Shaji Thomas" role="Social Events Portfolio Member"/>
+          </div>  
+          <div class = 'CommitteeColumn'>
+            <CommitteeCard name = "Isabelle Masagca" role="Social Events Portfolio Member"/>
           </div>  
         </div>  
 
@@ -72,10 +85,16 @@ const Committee = () => {
 
         <div class = 'CommitteeRow'>
           <div class = 'CommitteeColumn'>
-            <CommitteeCard imagesrc={AparnaImage} name = "Aparna" role="Social Media Officer"/>
+            <CommitteeCard name = "Zainab Noorullah" role="Social Media Officer"/>
           </div>  
           <div class = 'CommitteeColumn'>
-            <CommitteeCard imagesrc={ApsaraImage} name = "Apsara" role="Social Media Officer"/>
+            <CommitteeCard name = "Alyssa Vonier" role="Social Media Officer"/>
+          </div>
+          <div class = 'CommitteeColumn'>
+            <CommitteeCard name = "Navya Chugh" role="Social Media Portfolio Member"/>
+          </div>
+          <div class = 'CommitteeColumn'>
+            <CommitteeCard name = "Kent Go" role="Website Officer"/>
           </div>
         </div>  
 
