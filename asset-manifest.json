@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/FIRE-website/static/css/main.7a791e50.css",
-    "main.js": "/FIRE-website/static/js/main.25000a42.js",
+    "main.css": "/FIRE-website/static/css/main.1111af15.css",
+    "main.js": "/FIRE-website/static/js/main.70e48a5e.js",
     "static/media/ScavengerHunt.png": "/FIRE-website/static/media/ScavengerHunt.e45ca8c60482d075fefd.png",
     "static/media/committeePicture.jpg": "/FIRE-website/static/media/committeePicture.2b8e7defb367ff830d6d.jpg",
     "static/media/boat-party-1.jpg": "/FIRE-website/static/media/boat-party-1.5e58d852e05179a01945.jpg",
@@ -23,11 +23,11 @@
     "static/media/FIREWebsiteLogo.png": "/FIRE-website/static/media/FIREWebsiteLogo.76dc9aff192ade4ded41.png",
     "static/media/pwcLogo.png": "/FIRE-website/static/media/pwcLogo.f3157821d3956b866d50.png",
     "index.html": "/FIRE-website/index.html",
-    "main.7a791e50.css.map": "/FIRE-website/static/css/main.7a791e50.css.map",
-    "main.25000a42.js.map": "/FIRE-website/static/js/main.25000a42.js.map"
+    "main.1111af15.css.map": "/FIRE-website/static/css/main.1111af15.css.map",
+    "main.70e48a5e.js.map": "/FIRE-website/static/js/main.70e48a5e.js.map"
   },
   "entrypoints": [
-    "static/css/main.7a791e50.css",
-    "static/js/main.25000a42.js"
+    "static/css/main.1111af15.css",
+    "static/js/main.70e48a5e.js"
   ]
 }
