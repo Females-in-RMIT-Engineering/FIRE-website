@@ -1,10 +1,7 @@
 {
   "files": {
     "main.css": "/FIRE-website/static/css/main.7a791e50.css",
-    "main.js": "/FIRE-website/static/js/main.969c10cd.js",
-    "static/media/Karen.jpeg": "/FIRE-website/static/media/Karen.52cf729e1099ff99acd7.jpeg",
-    "static/media/Kyla.jpg": "/FIRE-website/static/media/Kyla.8f6e1e720c6027099677.jpg",
-    "static/media/Akshita.jpg": "/FIRE-website/static/media/Akshita.4d9f8d96da01c9af6f82.jpg",
+    "main.js": "/FIRE-website/static/js/main.25000a42.js",
     "static/media/ScavengerHunt.png": "/FIRE-website/static/media/ScavengerHunt.e45ca8c60482d075fefd.png",
     "static/media/committeePicture.jpg": "/FIRE-website/static/media/committeePicture.2b8e7defb367ff830d6d.jpg",
     "static/media/boat-party-1.jpg": "/FIRE-website/static/media/boat-party-1.5e58d852e05179a01945.jpg",
@@ -19,22 +16,18 @@
     "static/media/ARCADISLogo.png": "/FIRE-website/static/media/ARCADISLogo.c311e234f3959de93efe.png",
     "static/media/load.gif": "/FIRE-website/static/media/load.74c6efb7864698356d45.gif",
     "static/media/SynchrotronTour.jpg": "/FIRE-website/static/media/SynchrotronTour.1725747365ff5affb618.jpg",
-    "static/media/Victoria.jpeg": "/FIRE-website/static/media/Victoria.7542f9add2b4bf97a9cd.jpeg",
-    "static/media/Terry.jpeg": "/FIRE-website/static/media/Terry.5a2ad29f37f3cccce9df.jpeg",
     "static/media/lendleaseLogo.png": "/FIRE-website/static/media/lendleaseLogo.de1ea1586ca48cc47d28.png",
     "static/media/RMITLogo.png": "/FIRE-website/static/media/RMITLogo.0acafbbf9995ffa83167.png",
     "static/media/JacobsLogo.png": "/FIRE-website/static/media/JacobsLogo.b8af5696b96badcc904f.png",
-    "static/media/Aparna.jpg": "/FIRE-website/static/media/Aparna.b2e067bde629ff8b5e91.jpg",
     "static/media/RUSULogo.jpg": "/FIRE-website/static/media/RUSULogo.1c81dc51e6f6fee52fc6.jpg",
     "static/media/FIREWebsiteLogo.png": "/FIRE-website/static/media/FIREWebsiteLogo.76dc9aff192ade4ded41.png",
-    "static/media/Apsara.jpg": "/FIRE-website/static/media/Apsara.82cda76a3901d5e46ec1.jpg",
     "static/media/pwcLogo.png": "/FIRE-website/static/media/pwcLogo.f3157821d3956b866d50.png",
     "index.html": "/FIRE-website/index.html",
     "main.7a791e50.css.map": "/FIRE-website/static/css/main.7a791e50.css.map",
-    "main.969c10cd.js.map": "/FIRE-website/static/js/main.969c10cd.js.map"
+    "main.25000a42.js.map": "/FIRE-website/static/js/main.25000a42.js.map"
   },
   "entrypoints": [
     "static/css/main.7a791e50.css",
-    "static/js/main.969c10cd.js"
+    "static/js/main.25000a42.js"
   ]
 }
