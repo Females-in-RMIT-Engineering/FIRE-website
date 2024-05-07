@@ -1,21 +1,17 @@
 {
   "files": {
     "main.css": "/FIRE-website/static/css/main.1111af15.css",
-    "main.js": "/FIRE-website/static/js/main.70e48a5e.js",
-    "static/media/ScavengerHunt.png": "/FIRE-website/static/media/ScavengerHunt.e45ca8c60482d075fefd.png",
+    "main.js": "/FIRE-website/static/js/main.fdc2f227.js",
     "static/media/committeePicture.jpg": "/FIRE-website/static/media/committeePicture.2b8e7defb367ff830d6d.jpg",
     "static/media/boat-party-1.jpg": "/FIRE-website/static/media/boat-party-1.5e58d852e05179a01945.jpg",
     "static/media/industry-night-1.jpg": "/FIRE-website/static/media/industry-night-1.c5ebda586b98f64b82f7.jpg",
     "static/media/boat-party-2.jpg": "/FIRE-website/static/media/boat-party-2.58faf371cdf2e6691cc2.jpg",
-    "static/media/NetworkingNight.jpg": "/FIRE-website/static/media/NetworkingNight.0d5ac19004860d1c3876.jpg",
     "static/media/welcome-night-2.jpg": "/FIRE-website/static/media/welcome-night-2.397cbb4daf2c66776d15.jpg",
     "static/media/industry-night-2.jpg": "/FIRE-website/static/media/industry-night-2.a5e88ada59b4097655ef.jpg",
-    "static/media/EngineeringBall.jpg": "/FIRE-website/static/media/EngineeringBall.a4b325533f11e17dd30c.jpg",
+    "static/media/AfternoonTeaNetworking.jpg": "/FIRE-website/static/media/AfternoonTeaNetworking.d1b0dbe2f7ccafeb912a.jpg",
     "static/media/welcome-night-1.jpg": "/FIRE-website/static/media/welcome-night-1.d056d22f1aa376de6c44.jpg",
-    "static/media/EngineeringBallCard.jpg": "/FIRE-website/static/media/EngineeringBallCard.f5db6ccb437e9029c988.jpg",
     "static/media/ARCADISLogo.png": "/FIRE-website/static/media/ARCADISLogo.c311e234f3959de93efe.png",
     "static/media/load.gif": "/FIRE-website/static/media/load.74c6efb7864698356d45.gif",
-    "static/media/SynchrotronTour.jpg": "/FIRE-website/static/media/SynchrotronTour.1725747365ff5affb618.jpg",
     "static/media/lendleaseLogo.png": "/FIRE-website/static/media/lendleaseLogo.de1ea1586ca48cc47d28.png",
     "static/media/RMITLogo.png": "/FIRE-website/static/media/RMITLogo.0acafbbf9995ffa83167.png",
     "static/media/JacobsLogo.png": "/FIRE-website/static/media/JacobsLogo.b8af5696b96badcc904f.png",
@@ -24,10 +20,10 @@
     "static/media/pwcLogo.png": "/FIRE-website/static/media/pwcLogo.f3157821d3956b866d50.png",
     "index.html": "/FIRE-website/index.html",
     "main.1111af15.css.map": "/FIRE-website/static/css/main.1111af15.css.map",
-    "main.70e48a5e.js.map": "/FIRE-website/static/js/main.70e48a5e.js.map"
+    "main.fdc2f227.js.map": "/FIRE-website/static/js/main.fdc2f227.js.map"
   },
   "entrypoints": [
     "static/css/main.1111af15.css",
-    "static/js/main.70e48a5e.js"
+    "static/js/main.fdc2f227.js"
   ]
 }
