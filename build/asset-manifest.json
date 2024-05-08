@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/FIRE-website/static/css/main.1111af15.css",
-    "main.js": "/FIRE-website/static/js/main.fdc2f227.js",
+    "main.js": "/FIRE-website/static/js/main.92c4ae03.js",
     "static/media/committeePicture.jpg": "/FIRE-website/static/media/committeePicture.2b8e7defb367ff830d6d.jpg",
     "static/media/boat-party-1.jpg": "/FIRE-website/static/media/boat-party-1.5e58d852e05179a01945.jpg",
     "static/media/industry-night-1.jpg": "/FIRE-website/static/media/industry-night-1.c5ebda586b98f64b82f7.jpg",
@@ -20,10 +20,10 @@
     "static/media/pwcLogo.png": "/FIRE-website/static/media/pwcLogo.f3157821d3956b866d50.png",
     "index.html": "/FIRE-website/index.html",
     "main.1111af15.css.map": "/FIRE-website/static/css/main.1111af15.css.map",
-    "main.fdc2f227.js.map": "/FIRE-website/static/js/main.fdc2f227.js.map"
+    "main.92c4ae03.js.map": "/FIRE-website/static/js/main.92c4ae03.js.map"
   },
   "entrypoints": [
     "static/css/main.1111af15.css",
-    "static/js/main.fdc2f227.js"
+    "static/js/main.92c4ae03.js"
   ]
 }

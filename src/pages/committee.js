@@ -40,16 +40,16 @@ const Committee = () => {
 
         <div class = 'CommitteeRow'>
           <div class = 'CommitteeColumn'>
-            <CommitteeCard name = "Lourdes Sirianni" role="Newsletter Officer"/>
+            <CommitteeCard name = "Lourdes Sirianni" role="Newsletter General Committee"/>
           </div>  
           <div class = 'CommitteeColumn'>
-            <CommitteeCard name = "Ridma Withanage" role="Newsletter Officer"/>
+            <CommitteeCard name = "Ridma Withanage" role="Newsletter General Committee"/>
           </div> 
           <div class = 'CommitteeColumn'>
-            <CommitteeCard name = "Spurthy Yellutla" role="Newsletter Officer"/>
+            <CommitteeCard name = "Spurthy Naidu" role="Newsletter General Committee"/>
           </div>  
           <div class = 'CommitteeColumn'>
-            <CommitteeCard name = "Vani Kumar" role="Newsletter Officer"/>
+            <CommitteeCard name = "Vee Kumar" role="Newsletter General Committee"/>
           </div>  
         </div>  
 
@@ -60,10 +60,10 @@ const Committee = () => {
             <CommitteeCard name = "Cherie Htun" role="Industry Engagement Officer"/>
           </div> 
           <div class = 'CommitteeColumn'>
-            <CommitteeCard name = "Nithya Niranjani Nagaraja" role="Industry Engagement Officer"/>
+            <CommitteeCard name = "Nithya Niranjani N" role="Industry General Committee"/>
           </div> 
           <div class = 'CommitteeColumn'>
-            <CommitteeCard name = "Tara Schneeweiss" role="Industry Engagement Officer"/>
+            <CommitteeCard name = "Tara Schneeweiss" role="Industry General Committee"/>
           </div>  
         </div>  
 
@@ -71,13 +71,16 @@ const Committee = () => {
 
         <div class = 'CommitteeRow'>
           <div class = 'CommitteeColumn'>
-            <CommitteeCard name = "Evelyn Todio" role="Social Events Officer"/>
+            <CommitteeCard name = "Evelyn Todio" role="Social Engagement Officer"/>
           </div>  
           <div class = 'CommitteeColumn'>
-            <CommitteeCard name = "Sherin Shaji Thomas" role="Social Events Portfolio Member"/>
+            <CommitteeCard name = "Sherin Shaji Thomas" role="Social Events General Committee"/>
           </div>  
           <div class = 'CommitteeColumn'>
-            <CommitteeCard name = "Isabelle Masagca" role="Social Events Portfolio Member"/>
+            <CommitteeCard name = "Isabelle Masagca" role="Social Events General Committee"/>
+          </div>
+          <div class = 'CommitteeColumn'>
+            <CommitteeCard name = "Victoria Green" role="Social Events General Committee"/>
           </div>  
         </div>  
 
@@ -85,13 +88,13 @@ const Committee = () => {
 
         <div class = 'CommitteeRow'>
           <div class = 'CommitteeColumn'>
-            <CommitteeCard name = "Zainab Noorullah" role="Social Media Officer"/>
+            <CommitteeCard name = "Zainab Noorullah" role="Social Media General Committee"/>
           </div>  
           <div class = 'CommitteeColumn'>
-            <CommitteeCard name = "Alyssa Vonier" role="Social Media Officer"/>
+            <CommitteeCard name = "Alyssa Vonier" role="Social Media General Committee"/>
           </div>
           <div class = 'CommitteeColumn'>
-            <CommitteeCard name = "Navya Chugh" role="Social Media Portfolio Member"/>
+            <CommitteeCard name = "Navya Chugh" role="Social Media General Committee"/>
           </div>
           <div class = 'CommitteeColumn'>
             <CommitteeCard name = "Kent Go" role="Website Officer"/>
