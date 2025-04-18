@@ -3,6 +3,7 @@
 import React from 'react';
 import { Helmet } from "react-helmet";
 import "./pagesCSS/sponsors.css";
+import "@fontsource/varela-round/400.css";
 
 import lendleaseLogo from './pagesResources/logos/lendleaseLogo.png';
 import pwcLogo from './pagesResources/logos/pwcLogo.png';
@@ -31,7 +32,7 @@ const Sponsors = () => {
 
           <div class="sponsors">
             <div class="platinum-sponsors">
-              <h2> Platinum </h2>
+              <div class="title"> Platinum </div>
               <div class = 'SponsorRow'>
                 <div class = 'SponsorColumn'>
                   {/* <img src={lendleaseLogo} alt = 'lendlease Logo' height = {190} class = 'SponsorLogos'/>
@@ -44,7 +45,7 @@ const Sponsors = () => {
 
             {/* pwc, lendlease, aemo */}
             <div class="gold-sponsors">
-              <h2> Gold </h2>
+              <div class="title"> Gold </div>
               <div class = 'SponsorRowGrid'>
                 <div class = 'SponsorColumn'>
                   <div class="sponsor-image-container">
@@ -91,7 +92,7 @@ const Sponsors = () => {
             
             {/* EY, Vanguard, Arcadis, Spiire */}
             <div class="silver-sponsors">
-              <h2> Silver </h2>
+              <div class="title"> Silver </div>
               <div class = 'SponsorRowGrid'>
                 <div class = 'SponsorColumn'>
                   <div class="sponsor-image-container">

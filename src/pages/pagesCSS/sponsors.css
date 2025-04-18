@@ -5,11 +5,13 @@ body {
       sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+    /* font-family: "Varela Round"; */
 }
   
 code {
     font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
       monospace;
+    /* font-family: "Varela Round"; */
 }
 
 a.join{
@@ -71,6 +73,15 @@ a.join{
     margin: 0 auto;
     text-align: center;
 } */
+.title{
+    color: rgb(75, 71, 71);
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 7px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
 .sponsors{
     margin-left: 20px;
     margin-right: 20px;
@@ -98,33 +109,49 @@ a.join{
     justify-content: space-around;
     align-items: center;
 }
+.platinum-sponsors .title{
+    background-color: #e5e4e2;
+}
 .platinum-sponsors{
     border-radius: 7px;
-    background-color: #e5e4e2;
-    transition: background-color 0.3s ease;
+    margin-bottom: 20px;
 }
-.platinum-sponsors:hover{
-    background-color: #f5f3f2;
+.gold-sponsors .title{
+    background-color: rgb(246, 220, 159);
 }
 .gold-sponsors{
     border-radius: 7px;
-    background-color: rgb(246, 220, 159);
-    transition: background-color 0.3s ease;
+    margin-bottom: 20px;
 }
-.gold-sponsors:hover{
-    background-color: rgb(248, 234, 205);
+.silver-sponsors .title{
+    background-color: rgb(227, 225, 225);
 }
 .silver-sponsors{
     border-radius: 7px;
-    background-color: rgb(227, 225, 225);
-    transition: background-color 0.3s ease;
-}
-.silver-sponsors:hover{
-    background-color: rgb(238, 236, 236);
+    margin-bottom: 20px;
 }
 .silver-sponsors .SponsorRowGrid{
     grid-template-columns: 1fr 1fr;
 }
 .silver-sponsors .sponsor-image-container{
     height: 200px;
+}
+
+@media (max-width: 750px){
+    .SponsorRowGrid{
+        grid-template-columns: 1fr;
+    }
+    .silver-sponsors .SponsorRowGrid{
+        grid-template-columns: 1fr;
+    }
+}
+@media (min-width: 751px) and (max-width: 999px){
+    .SponsorRowGrid{
+        grid-template-columns: 1fr 1fr;
+    }
+}
+@media (min-width: 1000px){
+    .SponsorRowGrid{
+        grid-template-columns: 1fr 1fr 1fr;
+    }
 }
