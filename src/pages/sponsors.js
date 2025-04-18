@@ -31,18 +31,6 @@ const Sponsors = () => {
           </p>
 
           <div class="sponsors">
-            <div class="platinum-sponsors">
-              <div class="title"> Platinum </div>
-              <div class = 'SponsorRow'>
-                <div class = 'SponsorColumn'>
-                  {/* <img src={lendleaseLogo} alt = 'lendlease Logo' height = {190} class = 'SponsorLogos'/>
-                  lendlease description adapted from https://www.lendlease.com/au/about-us/
-                  <p>As a global, integrated real estate group, we draw on decades of experience and the latest thinking in investments, development, construction, design and placemaking to deliver iconic and enormously successful places.</p> */}
-                  -
-                </div>
-              </div>
-            </div>
-
             {/* pwc, lendlease, aemo */}
             <div class="gold-sponsors">
               <div class="title"> Gold </div>
@@ -67,16 +55,6 @@ const Sponsors = () => {
                     As a global, integrated real estate group, we draw on decades of experience and the latest thinking in investments, development, construction, design and placemaking to deliver iconic and enormously successful places.
                   </div>
                 </div>
-
-                {/* <div class = 'SponsorColumn'>
-                  <div class="sponsor-image-container">
-                    <img src={JacobsLogo} alt = 'Jacobs Logo' width = {270} class = 'SponsorLogos' />
-                  </div>
-                  Jacobs description adapted from https://www.jacobs.com/about
-                  <div class="sponsor-description">
-                    At Jacobs, we make the world smarter, more connected and more sustainable. Across our company, across our offices, across the world, we’re continually challenging today to reinvent tomorrow.
-                  </div>
-                </div> */}
 
                 <div class = 'SponsorColumn'>
                   <div class="sponsor-image-container">

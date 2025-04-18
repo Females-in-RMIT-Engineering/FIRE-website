@@ -5,13 +5,11 @@ body {
       sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    /* font-family: "Varela Round"; */
 }
   
 code {
     font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
       monospace;
-    /* font-family: "Varela Round"; */
 }
 
 a.join{
@@ -49,30 +47,6 @@ a.join{
     justify-content: center;
     align-items: center;
 }
-
-/* .sponsorsContent .SponsorRowGrid{
-  display: grid;
-  margin-left: 25%;
-  margin-right: 25%;
-  grid-template-columns: repeat(auto-fill, 
-                         minmax(185px, 1fr));
-  column-gap: 200px;
-  row-gap: 200px;
-  height: auto;
-   
-  @media (max-width: 794px) {
-    grid-template-columns: repeat(auto-fill, 
-                           minmax(200px, 1fr));
-  }
-}
-
-.sponsorsContent .SponsorColumn{
-    display: block;
-    min-height: 150px;
-    max-width: 340px;
-    margin: 0 auto;
-    text-align: center;
-} */
 .title{
     color: rgb(75, 71, 71);
     font-size: 35px;
