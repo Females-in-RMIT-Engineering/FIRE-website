@@ -19,6 +19,7 @@ a.join{
 
 .sponsorsContent{
     background-color: white;
+    margin-bottom: 50px;
 }
 
 .sponsorsContent h1{
@@ -36,6 +37,7 @@ a.join{
     justify-content: center;
     text-align: center;
     font-size: 37px;
+    margin-bottom: 0;
 }
 
 .sponsorsContent .SponsorRow{
@@ -46,7 +48,7 @@ a.join{
     align-items: center;
 }
 
-.sponsorsContent .SponsorRowGrid{
+/* .sponsorsContent .SponsorRowGrid{
   display: grid;
   margin-left: 25%;
   margin-right: 25%;
@@ -68,4 +70,61 @@ a.join{
     max-width: 340px;
     margin: 0 auto;
     text-align: center;
+} */
+.sponsors{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.SponsorRowGrid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 30px;
+    row-gap: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 30px;
+}
+.sponsor-image-container{
+    height: 270px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 5px;
+}
+.SponsorColumn{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.platinum-sponsors{
+    border-radius: 7px;
+    background-color: #e5e4e2;
+    transition: background-color 0.3s ease;
+}
+.platinum-sponsors:hover{
+    background-color: #f5f3f2;
+}
+.gold-sponsors{
+    border-radius: 7px;
+    background-color: rgb(246, 220, 159);
+    transition: background-color 0.3s ease;
+}
+.gold-sponsors:hover{
+    background-color: rgb(248, 234, 205);
+}
+.silver-sponsors{
+    border-radius: 7px;
+    background-color: rgb(227, 225, 225);
+    transition: background-color 0.3s ease;
+}
+.silver-sponsors:hover{
+    background-color: rgb(238, 236, 236);
+}
+.silver-sponsors .SponsorRowGrid{
+    grid-template-columns: 1fr 1fr;
+}
+.silver-sponsors .sponsor-image-container{
+    height: 200px;
 }
