@@ -19,6 +19,7 @@ a.join{
 
 .sponsorsContent{
     background-color: white;
+    margin-bottom: 50px;
 }
 
 .sponsorsContent h1{
@@ -36,6 +37,7 @@ a.join{
     justify-content: center;
     text-align: center;
     font-size: 37px;
+    margin-bottom: 0;
 }
 
 .sponsorsContent .SponsorRow{
@@ -45,27 +47,86 @@ a.join{
     justify-content: center;
     align-items: center;
 }
-
-.sponsorsContent .SponsorRowGrid{
-  display: grid;
-  margin-left: 25%;
-  margin-right: 25%;
-  grid-template-columns: repeat(auto-fill, 
-                         minmax(185px, 1fr));
-  column-gap: 200px;
-  row-gap: 200px;
-  height: auto;
-   
-  @media (max-width: 794px) {
-    grid-template-columns: repeat(auto-fill, 
-                           minmax(200px, 1fr));
-  }
+.title{
+    color: rgb(75, 71, 71);
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 7px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.sponsors{
+    margin-top: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.SponsorRowGrid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 30px;
+    row-gap: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 30px;
+}
+.sponsor-image-container{
+    height: 270px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 5px;
+}
+.SponsorColumn{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.platinum-sponsors .title{
+    background-color: #e5e4e2;
+}
+.platinum-sponsors{
+    border-radius: 7px;
+    margin-bottom: 20px;
+}
+.gold-sponsors .title{
+    background-color: rgb(246, 220, 159);
+}
+.gold-sponsors{
+    border-radius: 7px;
+    margin-bottom: 20px;
+}
+.silver-sponsors .title{
+    background-color: rgb(227, 225, 225);
+}
+.silver-sponsors{
+    border-radius: 7px;
+    margin-bottom: 20px;
+}
+.silver-sponsors .SponsorRowGrid{
+    grid-template-columns: 1fr 1fr;
+}
+.silver-sponsors .sponsor-image-container{
+    height: 200px;
 }
 
-.sponsorsContent .SponsorColumn{
-    display: block;
-    min-height: 150px;
-    max-width: 340px;
-    margin: 0 auto;
-    text-align: center;
+@media (max-width: 750px){
+    .SponsorRowGrid{
+        grid-template-columns: 1fr;
+    }
+    .silver-sponsors .SponsorRowGrid{
+        grid-template-columns: 1fr;
+    }
+}
+@media (min-width: 751px) and (max-width: 999px){
+    .SponsorRowGrid{
+        grid-template-columns: 1fr 1fr;
+    }
+}
+@media (min-width: 1000px){
+    .SponsorRowGrid{
+        grid-template-columns: 1fr 1fr 1fr;
+    }
 }
