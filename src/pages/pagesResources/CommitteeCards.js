@@ -7,6 +7,7 @@ function CommitteeCard(props){
     return (
         <UserCard
             float
+            header={props.photo}
             name={props.name}
             positionName={props.role}
             //style={{cursor: "pointer"}}
