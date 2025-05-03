@@ -48,3 +48,7 @@ a.join{
 .committeeContent .CommitteeRow .CommitteeColumn{
     text-align: center;
 }
+
+.paragraphSpacing {
+    padding: 0 100px;
+}
